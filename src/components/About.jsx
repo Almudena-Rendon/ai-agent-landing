@@ -42,7 +42,7 @@ const About = () => {
           </p>
         </div>
         <img
-          src="/about-1.jpg"
+          src="/about-1.webp"
           alt="Imagen 1"
           className="w-full rounded-lg md:w-1/2"
         />
@@ -53,7 +53,7 @@ const About = () => {
         ref={(el) => (sectionsRef.current[1] = el)}
       >
         <img
-          src="/about-2.jpg"
+          src="/about-2.webp"
           alt="Imagen 2"
           className="w-full rounded-lg md:w-1/2"
         />

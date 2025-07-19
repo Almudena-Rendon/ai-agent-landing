@@ -26,7 +26,7 @@ body {
   }
   .hero-img {
     @apply bg-center bg-no-repeat bg-cover;
-    background-image: url('/hero-background.jpg');
+    background-image: url('/hero-background.webp');
   }
   .floating-nav {
     @apply bg-[#010204b2] rounded-xl backdrop-blur-md shadow-lg;
