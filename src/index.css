@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Inter:wght@400..700&display=swap');
+
 @import 'tailwindcss';
 
 :root {
-  font-family: theme('fontFamily.sans');
+  font-family: 'Orbitron', sans-serif;
   line-height: 1.5;
   font-weight: 400;
   color-scheme: light dark;
@@ -29,7 +31,6 @@ body {
     background-image: url('/hero-background.webp');
   }
   .floating-nav {
-    @apply mx-4 sm:mx-0 bg-[#010204b2] rounded-xl backdrop-blur-md shadow-lg;
+    @apply mx-4 sm:mx-0 bg-[#010204d2] rounded-xl backdrop-blur-md shadow-lg;
   }
-  
 }
