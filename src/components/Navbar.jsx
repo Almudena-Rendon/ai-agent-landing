@@ -44,13 +44,13 @@ const Navbar = () => {
         <nav className="flex items-center justify-between p-7 size-full">
           <div className="flex items-center gap-4">
             <img
-              src="/logo.jpg"
+              src="/logo.png"
               className="w-[40px] rounded-full"
               alt="Logo"
             />
-            <span className="text-xs uppercase ms-2 text-blue-50">
+            <h2 className="text-xs uppercase ms-2 text-blue-50">
               AI Agent
-            </span>
+            </h2>
           </div>
           <div className="flex items-center h-full">
             <div className="hidden md:block">
