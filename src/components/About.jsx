@@ -27,9 +27,9 @@ const About = () => {
   }, [])
 
   return (
-    <section className="w-full min-h-screen bg-[#010204] text-blue-50 px-[12vw] py-[50px]">
+    <section className="w-full min-h-screen bg-[#010204] text-blue-50 px-[12vw]">
       <div
-        className="flex flex-col items-center justify-between gap-10 md:flex-row"
+        className="flex flex-col items-center justify-between gap-10 pt-20 md:flex-row"
         ref={(el) => (sectionsRef.current[0] = el)}
       >
         <div className="space-y-4 md:w-1/2">
@@ -66,6 +66,26 @@ const About = () => {
             sectors like automation, finance, and digital interaction.
           </p>
         </div>
+      </div>
+
+      <div
+        className="flex flex-col items-center justify-between gap-10 pt-4 md:flex-row"
+        ref={(el) => (sectionsRef.current[2] = el)}
+      >
+        <div className="space-y-4 md:w-1/2">
+          <h2 className="text-3xl font-bold">Our Vision</h2>
+          <p>
+            We envision a future where intelligent agents empower humans by
+            automating the complex and repetitive, allowing more time for
+            creativity, empathy, and meaningful work. We are building toward
+            that future — responsibly and transparently.
+          </p>
+        </div>
+        <img
+          src="/about-3.webp"
+          alt="Imagen 3"
+          className="w-full rounded-lg md:w-1/2"
+        />
       </div>
     </section>
   )
