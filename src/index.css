@@ -25,7 +25,7 @@ body {
     @apply relative text-xs uppercase cursor-pointer ms-10 text-blue-50;
   }
   .hero-img {
-    @apply bg-center bg-no-repeat bg-cover;
+    @apply bg-no-repeat bg-cover bg-[51%_center] sm:bg-center;;
     background-image: url('/hero-background.webp');
   }
   .floating-nav {
