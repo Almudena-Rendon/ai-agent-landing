@@ -44,7 +44,7 @@ const Navbar = () => {
         <nav className="flex items-center justify-between p-7 size-full">
           <div className="flex items-center gap-4">
             <img
-              src="/about-1.jpg"
+              src="/about-1.webp"
               className="w-[40px] rounded-full"
               alt="Logo"
             />
