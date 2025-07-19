@@ -25,10 +25,11 @@ body {
     @apply relative text-xs uppercase cursor-pointer ms-10 text-blue-50;
   }
   .hero-img {
-    @apply bg-no-repeat bg-cover bg-[51%_center] sm:bg-center;;
+    @apply bg-no-repeat bg-cover sm:bg-center;
     background-image: url('/hero-background.webp');
   }
   .floating-nav {
-    @apply bg-[#010204b2] rounded-xl backdrop-blur-md shadow-lg;
+    @apply mx-4 sm:mx-0 bg-[#010204b2] rounded-xl backdrop-blur-md shadow-lg;
   }
+  
 }
