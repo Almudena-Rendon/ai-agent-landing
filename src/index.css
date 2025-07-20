@@ -31,6 +31,6 @@ body {
     background-image: url('/hero-background.webp');
   }
   .floating-nav {
-    @apply mx-4 sm:mx-0 bg-[#000204cf] rounded-xl border border-white;
+    @apply mx-4 sm:mx-0 bg-[#000204da] rounded-xl border border-white;
   }
 }
