@@ -43,11 +43,6 @@ const Navbar = () => {
       <header className="absolute w-full -translate-y-1/2 top-1/2">
         <nav className="flex items-center justify-between p-7 size-full">
           <div className="flex items-center gap-4">
-            <img
-              src="/logo.png"
-              className="w-[40px] rounded-full"
-              alt="Logo"
-            />
             <h2 className="text-xs uppercase ms-2 text-blue-50">
               AI Agent
             </h2>
