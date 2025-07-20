@@ -11,6 +11,7 @@ const AboutSection = ({ title, text, imgSrc, reverse = false, refSetter }) => (
       reverse ? 'md:flex-row-reverse' : 'md:flex-row'
     } items-center justify-between gap-10 pt-10`}
     ref={refSetter}
+    id="about"
   >
     <div className="space-y-4 md:w-1/2">
       <h2 className="text-3xl font-bold">{title}</h2>
