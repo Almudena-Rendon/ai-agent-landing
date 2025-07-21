@@ -56,7 +56,20 @@ A modern AI-themed website with animated sections, scroll-based effects using GS
 
 ## Folder Structure
 
-<pre><code>```text src/ ├── components/ │ ├── Navbar.jsx │ ├── Hero.jsx │ ├── About.jsx │ └── Footer.jsx ├── assets/ │ ├── about-1.webp │ ├── about-2.webp │ └── about-3.webp ├── App.jsx └── main.jsx ```</code></pre>
+```
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   └── Footer.jsx
+├── assets/
+│   ├── about-1.webp
+│   ├── about-2.webp
+│   └── about-3.webp
+├── App.jsx
+└── main.jsx
+```
 
 ## Credits
 
