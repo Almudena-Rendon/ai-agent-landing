@@ -35,11 +35,7 @@ A modern AI-themed website with animated sections, scroll-based effects using GS
    ```bash
     git clone https://github.com/Almudena-Rendon/ai-agent-landing.git
 
-1. **Navigate to the project directory::**
-
-   ```bash
-    cd ai-agent-landing
-2. **Navigate to the project directory::**
+2. **Navigate to the project directory:**
 
    ```bash
     cd ai-agent-landing
