@@ -1,12 +1,80 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![freepik__background__24183](https://github.com/user-attachments/assets/b9047c14-71b0-477d-a4e5-b578e3a9d870)
 
-Currently, two official plugins are available:
+# NeuralForge - AI Agent Showcase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern AI-themed website with animated sections, scroll-based effects using GSAP and ScrollTrigger, built with React, Vite, and Tailwind CSS. The project features a floating navbar, animated hero, responsive sections, and social media integration.
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[[https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app) ](https://ai-agent-landing-ten.vercel.app/)
+
+## Features
+
+- Floating, animated navbar using `gsap`
+- Scroll-triggered section animations with `gsap/ScrollTrigger`
+- Hero section with full-screen background and animated headline
+- Responsive layout using Tailwind CSS
+- Modular, reusable React components (`Navbar`, `Hero`, `About`, `Footer`)
+- Social media integration (GitHub and LinkedIn)
+
+## Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **JavaScript**
+- **GSAP** with **ScrollTrigger**
+- **react-use**
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+    git clone https://github.com/Almudena-Rendon/ai-agent-landing.git
+
+1. **Navigate to the project directory::**
+
+   ```bash
+    cd ai-agent-landing
+2. **Navigate to the project directory::**
+
+   ```bash
+    cd ai-agent-landing
+   
+3. **Install dependencies:**
+
+   ```bash
+    npm install
+
+4. **Start the development server:**
+
+   ```bash
+    npm run dev
+
+## Folder Structure
+
+src/
+├── components/
+│ ├── Navbar.jsx
+│ ├── Hero.jsx
+│ ├── About.jsx
+│ └── Footer.jsx
+├── assets/
+│ ├── about-1.webp
+│ ├── about-2.webp
+│ └── about-3.webp
+├── App.jsx
+└── main.jsx
+
+
+## Credits
+
+- Images from [Freepik](https://www.freepik.com/)
+- Icons from [React Icons](https://react-icons.github.io/react-icons/)
+
+## License
+
+This project is open-source and free to use for educational or personal purposes. Fork, clone, and customize freely.
+
