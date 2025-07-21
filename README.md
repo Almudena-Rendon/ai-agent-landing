@@ -1,5 +1,6 @@
 
-![freepik__background__24183](https://github.com/user-attachments/assets/b9047c14-71b0-477d-a4e5-b578e3a9d870)
+<img width="1487" height="777" alt="141shots_so" src="https://github.com/user-attachments/assets/90117d8f-3a6c-4f60-b6b5-6d0a2e20c80c" />
+
 
 # NeuralForge - AI Agent Showcase
 
@@ -7,7 +8,7 @@ A modern AI-themed website with animated sections, scroll-based effects using GS
 
 ## Live Demo
 
-[[https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app) ](https://ai-agent-landing-ten.vercel.app/)
+[https://ai-agent-landing-ten.vercel.app/](https://ai-agent-landing-ten.vercel.app/)
 
 ## Features
 
