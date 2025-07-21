@@ -1,5 +1,5 @@
 
-<img width="1487" height="777" alt="141shots_so" src="https://github.com/user-attachments/assets/90117d8f-3a6c-4f60-b6b5-6d0a2e20c80c" />
+<img width="1489" height="802" alt="792shots_so" src="https://github.com/user-attachments/assets/fcc22c5d-8d2f-4f42-b63f-749939b52e62" />
 
 
 # NeuralForge - AI Agent Showcase
